@@ -8,7 +8,7 @@
         Counting objects: 3, done.
         Writing objects: 100% (3/3), 212 bytes | 0 bytes/s, done.
         Total 3 (delta 0), reused 0 (delta 0)
-        To https://github.com/tutorialzine/awesome-project.git
+        To https://github.com/cbplv/hw3.14.git
         * [new branch] master -> master
 
 В зависимости от сервиса, который вы используете, вам может потребоваться аутентифицироваться, чтобы изменения отправились. Если все сделано правильно, то когда вы посмотрите в удаленный репозиторий при помощи браузера, вы увидите файл hello.txt.

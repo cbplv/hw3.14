@@ -7,7 +7,7 @@
 
 
         # This is only an example. Replace the URI with your own repository address.
-        $ git remote add origin https://github.com/tutorialzine/awesome-project.git
+        $ git remote add origin https://github.com/cbplv/hw3.14.git
 
 Проект может иметь несколько удаленных репозиториев одновременно. Чтобы их различать, мы дадим им разные имена. Обычно главный репозиторий называется origin.
 
